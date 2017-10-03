@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github client</string>
+
+    <string name="error">Error</string>
+    <string name="error_commits">Error while loading commits</string>
+    <string name="empty_commits">No commits for the repository</string>
+    <string name="commit_details">Commit details</string>
+
+    <string name="loading">Loading…</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
